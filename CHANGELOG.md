@@ -2,40 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
-## [v2.1.0] - 2024-08-15
+## [v0.0.2] - 2025-09-30
 ### Added
-- Testing
-- Testing
-- Testing
+- Frontend
+- New API endpoints
+- Pulled in Reinforcement Learning Agents from old repo
 
 ### Fixed
-- Testing
-- Testing
-
-### Changed
-- Testing
+- WASM for indicators
+- Crumb for YF
 
 ---
 
-## [v2.0.0] - 2024-07-15
+## [v0.0.2] - 2025-09-9
 ### Added
-- Testing
-- Testing
-- Testing
-
-### Deprecated
-- Testing
-
-### Fixed
-- Testing
+- Python notebook testing various strategies and offering support for ML models like Random Forest
 
 ---
 
-## [v1.9.0] - 2024-06-20
+## [v0.0.1] - 2025-08-21
 ### Added
-- Testing
-- Testing
-
-### Fixed
-- Testing
-- Testing
+- Technical indicators in Rust
+- Machine learning models
+- API

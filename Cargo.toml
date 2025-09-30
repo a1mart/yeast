@@ -1,4 +1,4 @@
 [workspace]
 members = [
-    "cr8s/stox", "cr8s/stox-wasm",
+    "cr8s/stox", "cr8s/stox-wasm", "cr8s/yeast",
 ]

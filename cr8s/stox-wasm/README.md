@@ -1,3 +1,7 @@
+```bash
+wasm-pack build --target web --out-dir ./public/wasm
+```
+
 # Build wasm for the web
 ```bash
 wasm-pack build --target web
